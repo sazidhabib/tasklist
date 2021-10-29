@@ -1,6 +1,8 @@
-# tasklist
+# Tasklist
 
-Welcome to my task list  javascript project.
+Welcome to my "Task List"  javascript project.
+
+To See Live Preview - https://sazidhabib.github.io/tasklist/
 
 ![tasklist](https://user-images.githubusercontent.com/68610034/138998609-a0c0eb72-fcf3-4cf8-bf87-3f56693c8728.jpg)
 
